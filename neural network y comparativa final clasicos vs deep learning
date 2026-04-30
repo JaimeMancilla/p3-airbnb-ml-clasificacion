@@ -1,0 +1,23 @@
+[33mcommit ba66db0e0094455915d5a303a884d54b35e74223[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JaimeMancillaV <jaimemancilla@gmail.com>
+Date:   Wed Apr 29 13:06:10 2026 -0400
+
+    feat: matriz de confusion e importancia de variables LightGBM
+
+[33mcommit b5276c463667aee602fd8288477d94efce61f273[m
+Author: JaimeMancillaV <jaimemancilla@gmail.com>
+Date:   Wed Apr 29 07:00:28 2026 -0400
+
+    feat: feature engineering, split, escalado y modelos clasicos
+
+[33mcommit da778b05b3e7c83a896c39ff76dc11eccd873e5e[m
+Author: JaimeMancillaV <jaimemancilla@gmail.com>
+Date:   Wed Apr 29 05:18:04 2026 -0400
+
+    init: estructura del proyecto P3
+
+[33mcommit 76fed201ffcd7dd1a5d20198c54e6ce3c2ae5540[m
+Author: Jaime Mancilla Villalobos <64817023+JaimeMancilla@users.noreply.github.com>
+Date:   Wed Apr 29 05:16:42 2026 -0400
+
+    Initial commit
